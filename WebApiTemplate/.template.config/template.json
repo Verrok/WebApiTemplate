@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Verrok",
+  "classifications": [ "Web" ],
+  "name": "Api",
+  "identity": "Verrok.Templates.WebApi",   
+  "groupIdentity": "Verrok.Templates",
+  "shortName": "wat",          
+  "tags": {
+      "language": "C#"                  
+  },
+  "primaryOutputs": [
+    {
+      "path": "WebApiTemplate.csproj"
+    }
+  ],
+  "sourceName": "WebApiTemplate",   
+  "defaultName": "Template",
+  "preferNameDirectory" : true
+}
